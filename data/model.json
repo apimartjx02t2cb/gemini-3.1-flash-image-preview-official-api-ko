@@ -1,0 +1,17 @@
+{
+  "id": "gemini-3.1-flash-image-preview-official",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-13T06:43:02Z",
+  "prices": {},
+  "rates": {
+    "text_input": 0.4,
+    "cached_text_input": 0,
+    "image_input": 0.4,
+    "cached_image_input": 0,
+    "text_output": 2.4,
+    "image_output": 48
+  },
+  "unit": "usd_per_million_tokens",
+  "hook": "token-billed: text_input $0.4/M, image_input $0.4/M, text_output $2.4/M, image_output $48/M",
+  "model_page": "https://apimart.ai/model/nano-banana-2-api"
+}
